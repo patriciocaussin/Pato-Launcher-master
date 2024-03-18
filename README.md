@@ -1,4 +1,4 @@
-# PATO LAUNCHER [![Node.js CI](https://github.com/1ly4s0/battlylauncher/actions/workflows/build.yml/badge.svg)](https://github.com/1ly4s0/battlylauncher/actions/workflows/build.yml)
+# Pato Launcher [![Node.js CI](https://github.com/1ly4s0/battlylauncher/actions/workflows/build.yml/badge.svg)](https://github.com/1ly4s0/battlylauncher/actions/workflows/build.yml)
 
 
 
