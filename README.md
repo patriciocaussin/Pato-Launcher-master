@@ -1,4 +1,4 @@
-# Pato Launcher [![Node.js CI](https://github.com/1ly4s0/battlylauncher/actions/workflows/build.yml/badge.svg)](https://github.com/1ly4s0/battlylauncher/actions/workflows/build.yml)
+# PATO LAUNCHER [![Node.js CI](https://github.com/1ly4s0/battlylauncher/actions/workflows/build.yml/badge.svg)](https://github.com/1ly4s0/battlylauncher/actions/workflows/build.yml)
 
 
 
@@ -19,4 +19,4 @@ Recordad que si tenéis alguna sugerencia para Pato Launcher me la puedes dejar 
 
 
 ## Descargas
-Se puede descargar en la página oficial de Battly [aquí]()
+Se puede descargar en la página oficial de Pato Launcher [aquí]()
