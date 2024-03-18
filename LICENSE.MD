@@ -17,5 +17,5 @@ Este Contrato de Licencia del Usuario Final (EULA) es un acuerdo legal entre tu 
 
 4. Garantia y Responsabilidad
 4.1. El Software se proporciona "tal cual", sin garantias expresas o implicitas sobre su funcionamiento o idoneidad para un proposito especifico.
-4.2. Utilizas el Software bajo tu propio riesgo y TECNO BROS no sera responsable por ningun dano que pueda surgir del uso del Software.
+4.2. Utilizas el Software bajo tu propio riesgo y Pato no sera responsable por ningun dano que pueda surgir del uso del Software.
 4.3. Nos reservamos el derecho de suspender o interrumpir el acceso al Software en cualquier momento y sin previo aviso.
