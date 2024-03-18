@@ -1,6 +1,6 @@
-EULA del Battly Launcher
+EULA del Pato Launcher
 
-Este Contrato de Licencia del Usuario Final (EULA) es un acuerdo legal entre tu (Usuario) y TECNO BROS (Creador). Al usar el Battly Launcher (Software), aceptas los terminos de este EULA.
+Este Contrato de Licencia del Usuario Final (EULA) es un acuerdo legal entre tu (Usuario) y Pato (Creador). Al usar el Battly Launcher (Software), aceptas los terminos de este EULA.
 
 1. Licencia de Uso
 1.1. Se te otorga una licencia personal, no transferible y revocable para usar el Software y acceder a Minecraft.
@@ -12,7 +12,7 @@ Este Contrato de Licencia del Usuario Final (EULA) es un acuerdo legal entre tu 
 2.3. No podras utilizar el Software para difamar, acosar, amenazar o danar a otros usuarios.
 
 3. Propiedad Intelectual
-3.1. El Software y todos los derechos de propiedad intelectual asociados son propiedad exclusiva de TECNO BROS.
+3.1. El Software y todos los derechos de propiedad intelectual asociados son propiedad exclusiva de Pato.
 3.2. Reconoces que no adquieres ningun derecho de propiedad sobre el Software, excepto la licencia limitada otorgada en este EULA.
 
 4. Garantia y Responsabilidad
